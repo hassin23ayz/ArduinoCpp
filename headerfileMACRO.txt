@@ -1,0 +1,26 @@
+#ifndef	  SENSOR_H_     //tells compiler to compile this class only once 
+
+#define   SENSOR_H_
+
+#include <Arduino.h>
+
+class Sensor
+{
+//variables
+public:
+
+private:
+
+
+
+//functions
+public:
+	Sensor();
+	~Sensor();
+	
+private:
+
+};
+
+
+#endif

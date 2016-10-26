@@ -1,0 +1,4 @@
+<map id="Ball::bounce" name="Ball::bounce">
+<area shape="rect" id="node2" href="$class_ball.html#aa6b37fc15d1f4a6def1ac73b48ae37e0" title="Ball::turnOnLed" alt="" coords="148,5,260,32"/>
+<area shape="rect" id="node3" href="$class_ball.html#a59f25384cdf4bf5cda32a911e43d1e79" title="Ball::turnOffLed" alt="" coords="149,56,259,83"/>
+</map>

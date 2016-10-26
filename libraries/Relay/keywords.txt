@@ -1,0 +1,6 @@
+Relay	KEYWORD1
+GetRelayState	KEYWORD2
+OnOffuponCurrent	KEYWORD2
+OnOffuponTankLevels	KEYWORD2
+turnOnRelay	KEYWORD2
+turnOffRelay	KEYWORD2

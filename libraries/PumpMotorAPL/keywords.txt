@@ -1,0 +1,3 @@
+PumpMotorAPL	KEYWORD1
+monitorLevel	KEYWORD2
+monitorCurrent	KEYWORD2 

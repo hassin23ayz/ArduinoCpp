@@ -1,0 +1,9 @@
+UI	KEYWORD1
+PrintString	KEYWORD2
+PrintCharacter	KEYWORD2
+ClearScreen	KEYWORD2
+Lcd_set_pos_pix	KEYWORD2
+logo	KEYWORD2
+emptyTank	KEYWORD2
+filledTank	KEYWORD2
+ 
