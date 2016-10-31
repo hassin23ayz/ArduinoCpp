@@ -18,9 +18,9 @@
 #include <avr/interrupt.h>
 
 /* User setting -> Output pin the software UART */
-#define DBG_UART_TX_PORT  PORTD
-#define DBG_UART_TX_DDR   DDRD
-#define DBG_UART_TX_PIN   PD1
+#define DBG_UART_TX_PORT  PORTC
+#define DBG_UART_TX_DDR   DDRC
+#define DBG_UART_TX_PIN   PC5      //arduino Uno A5 no pin
 
 /* User setting -> Software UART baudrate. */
 #define DBG_UART_BAUDRATE 4800

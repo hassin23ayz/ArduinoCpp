@@ -1,6 +1,7 @@
 /*
  * @brief: this skecth will use a debug object from a singleton class 
  * the DebugSNG class will show the singleton pattern
+ * Debug pin is arduino uno A5 pin
  */
 
 #include "DebugSng.h"
