@@ -11,6 +11,9 @@
  * #none
  */
 
+#ifndef DEBUGSNG
+#define DEBUGSNG
+
 #include <Arduino.h> //needed for NULL and F_CPU macro recognition
 
 #include <stdint.h>
@@ -50,5 +53,7 @@ public:
     void turnOffDebug(void);
     ~DebugSng();
 };
+
+#endif
 
 
