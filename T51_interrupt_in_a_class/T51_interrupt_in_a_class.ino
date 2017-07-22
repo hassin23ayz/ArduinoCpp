@@ -5,6 +5,7 @@ PeriodicTask tsk;
 void updateTask(void)
 {
   Serial.println(F("UpdateTask() called by PeriodicTask Class"));
+  analogWrite(10,128);
 }
 
 void setup() 

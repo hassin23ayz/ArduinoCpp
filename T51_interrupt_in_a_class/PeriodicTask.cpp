@@ -19,7 +19,7 @@ PeriodicTask::~PeriodicTask()
   Serial.println(F("PeriodicTask destructor called"));
 }
 
-void PeriodicTask::init(unsigned long ms, void (*ptrFunc(void)) )  //pass the function of the pointer you want to be called back 
+void PeriodicTask::init(unsigned long ms, void (*ptrFunc)(void))  //pass the function of the pointer you want to be called back 
 {
   callBackFunc = ptrFunc;
   float prescaler = 0.0;
@@ -64,7 +64,7 @@ void PeriodicTask::overfLow(void)
   {
     //Serial.println(F("user time passed"));
     count = 0;
-    callBackFunc();
+    (*callBackFunc)();
   }
 }
 

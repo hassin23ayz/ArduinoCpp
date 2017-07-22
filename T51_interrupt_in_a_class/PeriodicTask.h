@@ -9,7 +9,7 @@ class PeriodicTask
   
     PeriodicTask();
     ~PeriodicTask();  
-    void init(unsigned long ms,  void (*ptrfunc(void)) );   //input in millisecond , pass the function of the pointer you want to be called back 
+    void init(unsigned long ms,  void (*ptrfunc)(void));   //input in millisecond , pass the function of the pointer you want to be called back 
     void sTart(void);
     void sTop(void);
     void overfLow(void);
