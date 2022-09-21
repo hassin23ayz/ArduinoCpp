@@ -22,6 +22,7 @@ void setup()
   Serial.print("size of custom Date variable : ");
   Serial.print(sizeof(today));
   Serial.println("bytes");
+  Serial.println("without use of bitfield, 6 bytes would have been allocated for the custom Data type");
 }
 
 void loop() {

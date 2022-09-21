@@ -37,6 +37,10 @@ void setup()
   Serial.print(myReg.b.CAL_2);
   Serial.print(myReg.b.CAL_1);
   Serial.print(myReg.b.CAL_0);
+
+  Serial.println("");
+  Serial.print("Size of REG_8Type in byte is : ");
+  Serial.println(sizeof(REG_8Type));
 }
 
 void loop() {
