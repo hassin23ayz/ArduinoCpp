@@ -1,6 +1,0 @@
-graphicsLCD	KEYWORD1
-displayNormal	KEYWORD2
-line	KEYWORD2
-logo	KEYWORD2
-printInfo	KEYWORD2
-clearLine	KEYWORD2

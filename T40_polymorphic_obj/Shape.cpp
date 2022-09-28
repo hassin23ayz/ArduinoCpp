@@ -9,8 +9,8 @@ Shape::~Shape()
 {
   Serial.println("Destructing the Shape Type object created");
 }
-
-void Shape::printType(void)                       //the virtual function which will serve polymorphism 
+//the virtual function which will serve polymorphism 
+void Shape::printType(void)                       
 {
   Serial.println("this is a Shape Class function");
 }

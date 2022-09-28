@@ -1,2 +1,0 @@
-LevelSensor	KEYWORD1
-isTankFilled	KEYWORD2
