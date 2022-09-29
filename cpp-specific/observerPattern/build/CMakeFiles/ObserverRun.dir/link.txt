@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/ObserverRun.dir/main.cpp.o CMakeFiles/ObserverRun.dir/ClockTimer.cpp.o CMakeFiles/ObserverRun.dir/DigitalClock.cpp.o  -o ObserverRun  libObserverLib.a 

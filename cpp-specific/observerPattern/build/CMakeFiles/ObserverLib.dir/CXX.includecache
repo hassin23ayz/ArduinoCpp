@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hassin/projects2/ArduinoCpp/cpp-specific/observerPattern/Observer.hpp
+vector
+-
+Subject.hpp
+/home/hassin/projects2/ArduinoCpp/cpp-specific/observerPattern/Subject.hpp
+
+/home/hassin/projects2/ArduinoCpp/cpp-specific/observerPattern/Subject.cpp
+vector
+-
+Subject.hpp
+/home/hassin/projects2/ArduinoCpp/cpp-specific/observerPattern/Subject.hpp
+
+/home/hassin/projects2/ArduinoCpp/cpp-specific/observerPattern/Subject.hpp
+Observer.hpp
+/home/hassin/projects2/ArduinoCpp/cpp-specific/observerPattern/Observer.hpp
+vector
+-
+

@@ -35,7 +35,8 @@ void setup()
 void loop() 
 {}
 
-template<class AnyDataType>AnyDataType add(AnyDataType a, AnyDataType b)
+template<class AnyDataType>
+AnyDataType add(AnyDataType a, AnyDataType b)
 {
   return(a+b);
 }

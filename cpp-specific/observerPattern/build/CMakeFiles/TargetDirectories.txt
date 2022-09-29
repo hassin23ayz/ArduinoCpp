@@ -1,0 +1,4 @@
+/home/hassin/projects2/ArduinoCpp/cpp-specific/observerPattern/build/CMakeFiles/rebuild_cache.dir
+/home/hassin/projects2/ArduinoCpp/cpp-specific/observerPattern/build/CMakeFiles/edit_cache.dir
+/home/hassin/projects2/ArduinoCpp/cpp-specific/observerPattern/build/CMakeFiles/ObserverRun.dir
+/home/hassin/projects2/ArduinoCpp/cpp-specific/observerPattern/build/CMakeFiles/ObserverLib.dir
