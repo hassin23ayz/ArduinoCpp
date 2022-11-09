@@ -11,6 +11,8 @@ void show_elems(vector<int>& mVect ) // pass by reference
 {
     // iterate over the vector and print the elems 
     vector<int>::iterator iV;
+
+    // The end() function points to the theoretical element that comes after the final element of the vector.
     for(iV = mVect.begin(); iV < mVect.end(); iV++)
     {
         cout << *iV << " ";
