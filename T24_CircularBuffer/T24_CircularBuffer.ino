@@ -7,7 +7,7 @@ typedef struct circularQueue_s
     int  validItems;
     int  data[MAX_ITEMS];
 
-} circularQueue_t; // is a single container type Data , we will create a cintainer out of this data type and out values these 
+} circularQueue_t; // is a single container type Data , we will create a cintainer out of this data type and out values these
 
 void initializeQueue(circularQueue_t& theQueue);
 int isEmpty(circularQueue_t& theQueue);
