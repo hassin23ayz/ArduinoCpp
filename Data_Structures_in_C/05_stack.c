@@ -5,6 +5,8 @@
 // STACK is FILO : first in last out , like a pile of books 
 // QUEUE is FIFO : first in first out 
 
+//todo create a stack using linked List
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
